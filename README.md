@@ -23,3 +23,5 @@ Read my [blog](https://stomprf.ru/) about politics, education and radio engineer
  
 <a href="https://t.me/iceshrimp"> <img src="assets/telegram.svg" width="25px"> </a>
 <a href="mailto:conorspb@gmail.com"> <img src="assets/gmail.svg" width="43px"> </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=yep606.yep606)
