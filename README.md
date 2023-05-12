@@ -1,4 +1,4 @@
- Hey! My name is Ilay and I'm Java Developer  </h2> 
+ Hey! My name is ... and I'm Java Developer  </h2> 
   
 I work on multiple projects around here, you can see the most interesting bellow </br>
 Read my [blog](https://stomprf.ru/) about politics, education and radio engineering on [stomprf.ru](https://stomprf.ru/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
@@ -17,10 +17,3 @@ Read my [blog](https://stomprf.ru/) about politics, education and radio engineer
   <img title="Maven" alt="maven" src="/assets/maven.svg" height="30" />
 </p>
 
-
-### Contact me here:
- 
-<a href="https://t.me/iceshrimp"> <img src="assets/telegram.svg" width="25px"> </a>
-<a href="mailto:conorspb@gmail.com"> <img src="assets/gmail.svg" width="43px"> </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=yep606.yep606)
