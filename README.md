@@ -1,6 +1,9 @@
- Hey! My name is Ilay and I'm Java Developer  </h2> 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! My name is Ilay and I'm Java Developer 
   
-I work on multiple projects around here, you can see the most interesting bellow 
+I work on multiple projects around here, you can see the most interesting bellow <img
+ src="https://github.com/yep606/yep606/assets/51522871/3b387003-bf0b-4c2e-ad3d-fa6872300228" width="30">
+
+
 
 ### Languages and Tools I use:
 
