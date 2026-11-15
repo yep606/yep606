@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ilay 👋</h1>
 
 <p align="center">
-  <b>Senior Java Engineer @Sber</b> — distributed systems for financial transactions<br/>
+  <b>Senior Java Engineer</b> — distributed systems for financial transactions<br/>
   After hours: LLM infrastructure, RAG systems and ESP32 firmware
 </p>
 
